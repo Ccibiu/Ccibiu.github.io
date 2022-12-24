@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3838373 */
+  /* Color fonts */
+  src: 
+       url('//at.alicdn.com/t/c/font_3838373_5vpbvkaiqec.woff2?t=1671891445792') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3838373_5vpbvkaiqec.woff?t=1671891445792') format('woff'),
+       url('//at.alicdn.com/t/c/font_3838373_5vpbvkaiqec.ttf?t=1671891445792') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-biaoqian:before {
+  content: "\f674";
+}
+
+.icon-yaoqinghaoyou:before {
+  content: "\ffbb";
+}
+
+.icon-shangjiadianpu:before {
+  content: "\ffbc";
+}
+
+.icon-xitonggonggao:before {
+  content: "\ffc1";
+}
+
+.icon-rili:before {
+  content: "\ffca";
+}
+
+.icon-wenjianchaxun:before {
+  content: "\1006e";
+}
+
+.icon-pinglun:before {
+  content: "\1007b";
+}
+
+.icon-danganku:before {
+  content: "\1007d";
+}
+
+.icon-yingshi:before {
+  content: "\10081";
+}
+
+.icon-yinle:before {
+  content: "\10084";
+}
+
+.icon-sousuo:before {
+  content: "\10087";
+}
+
+.icon-wenjianjia:before {
+  content: "\10089";
+}
+
+.icon-rili1:before {
+  content: "\10099";
+}
+
